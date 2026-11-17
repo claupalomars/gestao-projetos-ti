@@ -1,7 +1,10 @@
-# Projeto CompraFácil
+<img width="960" height="540" alt="scrum" src="https://github.com/user-attachments/assets/5e6ca962-2b32-4e4c-b43c-5e464c8bc26a" />
+/imagens/banner-scrum.png
+
+# 📌 Projeto CompraFácil
 ## Planejamento e Gestão de Projeto de TI
 
-### 1. Apresentação do projeto
+### 1. 	📋 Apresentação do projeto
 
 O CompraFácil é um projeto de desenvolvimento de um aplicativo de compras online, que tem como finalidade oferecer aos usuários uma plataforma simples e segura para realizar compras pela internet.
 
