@@ -1,4 +1,4 @@
-<img width="700" height="394" alt="scrum" src="https://github.com/user-attachments/assets/49d6d849-4d8b-456d-92a7-87f719e712c2" />
+<img width="1068" height="392" alt="Apresentação1" src="https://github.com/user-attachments/assets/cc491005-1d05-47a9-a1ff-fe4546e3c2a9" />
 
 ![Metodologia](https://img.shields.io/badge/Metodologia-Scrum-blue?style=flat&logo=scrumalliance&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Framework-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
