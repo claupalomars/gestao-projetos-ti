@@ -1,5 +1,9 @@
 <img width="700" height="394" alt="scrum" src="https://github.com/user-attachments/assets/49d6d849-4d8b-456d-92a7-87f719e712c2" />
-![Gestão de Projetos Scrum](./imagens/banner-scrum.png)
+<p align="center">
+  <img src="./imagens/banner-scrum.png" width="100%">
+  <br>
+  <img src="https://img.shields.io/badge/Metodologia-SCRUM-blue?style=for-the-badge">
+</p>
 
 
 # 📌 Projeto CompraFácil
