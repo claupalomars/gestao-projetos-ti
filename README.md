@@ -1,10 +1,6 @@
 <img width="700" height="394" alt="scrum" src="https://github.com/user-attachments/assets/49d6d849-4d8b-456d-92a7-87f719e712c2" />
-<p align="center">
-  <img src="./imagens/banner-scrum.png" width="100%">
-  <br>
-  <img src="https://img.shields.io/badge/Metodologia-SCRUM-blue?style=for-the-badge">
-</p>
-
+![Metodologia](https://img.shields.io/badge/Metodologia-Scrum-blue?style=flat&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Framework-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
 
 # 📌 Projeto CompraFácil
 ## Planejamento e Gestão de Projeto de TI
