@@ -1,5 +1,6 @@
-<img width="960" height="540" alt="scrum" src="https://github.com/user-attachments/assets/5e6ca962-2b32-4e4c-b43c-5e464c8bc26a" />
-/imagens/banner-scrum.png
+<img width="700" height="394" alt="scrum" src="https://github.com/user-attachments/assets/49d6d849-4d8b-456d-92a7-87f719e712c2" />
+![Gestão de Projetos Scrum](./imagens/banner-scrum.png)
+
 
 # 📌 Projeto CompraFácil
 ## Planejamento e Gestão de Projeto de TI
